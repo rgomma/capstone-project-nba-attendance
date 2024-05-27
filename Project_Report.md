@@ -1,5 +1,5 @@
 # Capstone Project Report - Understanding and Predicting NBA Arena Attendance
-### By Razaq Gomma
+#### By Razaq Gomma
 
 ## Elevator Pitch
 For my project, I will create a predictive model for NBA attendance that helps NBA teams account for the uncertainty in game attendance, which can lead to lost revenue.
